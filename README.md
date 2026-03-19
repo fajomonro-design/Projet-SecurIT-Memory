@@ -10,10 +10,10 @@
 ## 🚀 Fonctionnalités Clés
 
 ### 🎨 Interface & UX
-* [cite_start]**Menu Intuitif :** Interface d'accueil professionnelle avec trois options : Jouer, Options (taille de la grille 4x4 ou 6x6) et Quitter[cite: 65, 66, 68, 69, 70].
-* [cite_start]**Grille Dynamique :** Génération automatique de la zone de jeu en utilisant des PictureBox liées aux objets métiers[cite: 73, 74].
-* [cite_start]**Tableau de Bord :** Affichage en temps réel du chronomètre et du nombre d'essais courants pour stimuler le joueur[cite: 75, 76].
-* [cite_start]**Design Thématique :** Utilisation d'images orientées cybersécurité pour les faces révélées et d'un design uniforme pour les faces cachées[cite: 77, 78, 79].
+* [cite_start]**Menu Intuitif :** Interface d'accueil professionnelle avec trois options : Jouer, Options (taille de la grille 4x4 ou 6x6) et Quitter.
+* [cite_start]**Grille Dynamique :** Génération automatique de la zone de jeu en utilisant des PictureBox liées aux objets métiers.
+* [cite_start]**Tableau de Bord :** Affichage en temps réel du chronomètre et du nombre d'essais courants pour stimuler le joueur
+* [cite_start]**Design Thématique :** Utilisation d'images orientées cybersécurité pour les faces révélées et d'un design uniforme pour les faces cachées.
 
 ### ⚙️ Technique (C# & WinForms)
 * [cite_start]**Programmation Orientée Objet (POO) :** Conception rigoureuse autour d'une classe Carte encapsulée (propriétés avec get et set) gérant son ID, son image et son état (Cachée, Révélée, Trouvée)[cite: 50, 52, 55, 57, 58, 59].
@@ -37,16 +37,7 @@
 **Membre de l'équipe : [Prénom Élève 2]**
 * [cite_start]**Rôle :** Lead UI/UX & Intégrateur WinForms[cite: 40, 44].
 * **Tâches réalisées :**
-    * [cite_start]Conception du formulaire Menu Principal (Jouer, Options, Quitter)[cite: 64, 65].
-    * [cite_start]Génération dynamique de la grille de jeu avec intégration des PictureBox[cite: 72, 73].
-    * [cite_start]Mise en place des visuels (icônes cybersécurité, dos des cartes)[cite: 77, 79].
-    * [cite_start]Intégration des Labels pour le suivi en temps réel du score et du chronomètre[cite: 75, 76].
-
----
-
-### 🗺️ Roadmap Technique (Fonctionnalités Bonus)
-Si le projet devait être poursuivi (ou pour les bonus de l'évaluation), voici la roadmap :
-* [cite_start][ ] **Leaderboard SQL :** Connexion à une base de données locale pour sauvegarder les scores et afficher un classement dynamique[cite: 106, 107].
-* [cite_start][ ] **Thèmes de Cartes :** Ajout de plusieurs thèmes visuels (Matériel, Logiciel, Cryptographie) sélectionnables dans les options[cite: 108, 109].
-* [cite_start][ ] **Effets Sonores :** Ajout de sons immersifs (clic, succès, fanfare de victoire)[cite: 111, 112].
-* [cite_start][ ] **Mode Hardcore :** Implémentation d'un mode où les cartes non-trouvées échangent leurs positions toutes les 30 secondes[cite: 113, 114].
+    * [cite_start]Conception du formulaire Menu Principal (Jouer, Options, Quitter).
+    * [cite_start]Génération dynamique de la grille de jeu avec intégration des PictureBox.
+    * [cite_start]Mise en place des visuels (icônes cybersécurité, dos des cartes).
+    * [cite_start]Intégration des Labels pour le suivi en temps réel du score et du chronomètre.
