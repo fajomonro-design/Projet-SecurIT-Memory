@@ -1,0 +1,14 @@
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.AssemblyInfoInputs.cache
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.AssemblyInfo.cs
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.csproj.CoreCompileInputs.cache
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\bin\Debug\net10.0-windows\SecurIT_Memory.exe
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\bin\Debug\net10.0-windows\SecurIT_Memory.deps.json
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\bin\Debug\net10.0-windows\SecurIT_Memory.runtimeconfig.json
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\bin\Debug\net10.0-windows\SecurIT_Memory.dll
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\bin\Debug\net10.0-windows\SecurIT_Memory.pdb
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.dll
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\refint\SecurIT_Memory.dll
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.pdb
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\SecurIT_Memory.genruntimeconfig.cache
+C:\Users\fajom\OneDrive\Documents\Bureau\ynov\Projet SecurIT Memory\obj\Debug\net10.0-windows\ref\SecurIT_Memory.dll
