@@ -32,6 +32,12 @@ Pendant que l'autre s'occupe du visuel, ce développeur code le "moteur" du jeu 
 •    Le système de vérification : Créer une méthode qui reçoit deux cartes en paramètres, compare leurs identifiants numériques (ID), et renvoie vrai si c'est une paire, ou faux sinon.
 •    Astuce pour ne pas attendre : Pour tester ce code sans l'interface visuelle, ce développeur peut utiliser de simples Console.WriteLine en arrière-plan pour vérifier que le mélange et les comparaisons fonctionnent.
 __
+
+
+
+
+
+
 Développeur 2 : L'Interface (Fichiers FormMenu.cs et FormJeu.cs)
 Ce développeur conçoit l'interface graphique (WinForms) sans se soucier de la logique de validation des paires.
 •    Création du Menu Principal : Placer les boutons Jouer, Options et Quitter, et coder le passage d'une fenêtre à l'autre.
